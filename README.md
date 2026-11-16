@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Kuyukbot1/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Kuyukbot1/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+An entry for the [make.fun bounty](https://make.fun/bounty/tiny-chess-01).
+
 # tiny-chess-01 entry
 
 A chess engine in one Python file (`main.py`, LZMA-packed by the kit's
